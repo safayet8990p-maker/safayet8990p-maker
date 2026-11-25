@@ -42,7 +42,7 @@
 
   <!-- Title -->
   <text x="60" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="url(#accent)">
-    Hi, I'm safayet8990p-maker
+    Hi, I'm Safayet Hossain Noor 
     <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
   </text>
 
